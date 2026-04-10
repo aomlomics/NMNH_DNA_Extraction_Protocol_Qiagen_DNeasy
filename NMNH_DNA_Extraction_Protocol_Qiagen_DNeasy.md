@@ -18,7 +18,7 @@ language: en
 issued: 2024-03-01
 audience: scientists
 publisher: National Museum of Natural History, Smithsonian Institution
-hasVersion: 1
+hasVersion: 1.1.1
 license: CC0 1.0 Universal
 maturity level: mature
 
