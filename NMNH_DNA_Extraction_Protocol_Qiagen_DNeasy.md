@@ -18,7 +18,7 @@ language: en
 issued: 2024-03-01
 audience: scientists
 publisher: National Museum of Natural History, Smithsonian Institution
-hasVersion: 1.1.1
+hasVersion: 1.1.2
 license: CC0 1.0 Universal
 maturity level: mature
 
@@ -81,6 +81,7 @@ nucl_acid_ext_method_additional: Two sequential elutions with preheated Buffer A
 | 1.0.0 | 2020-03-18 | Initial release (K. Murphy, Smithsonian Institution LAB) |
 | 1.1.0 | 2024-03-01 | Adapted for OKEX project; updated authorship and affiliation |
 | 1.1.1 | 2026-04-10 | Updated YAML front matter |
+| 1.1.2 | 2026-04-10 | Updated YAML front matter with version number |
 
 ### Acronyms and Abbreviations
 
