@@ -1,3 +1,3 @@
-[![DOI](https://zenodo.org/badge/{id}.svg)](https://zenodo.org/badge/latestdoi/{id})
+[![DOI](https://zenodo.org/badge/1206345966.svg)](https://zenodo.org/badge/latestdoi/1206345966)
 
-Concept DOI: [10.5281/zenodo.{concept}](https://doi.org/10.5281/zenodo.{concept})
+Concept DOI: [10.5281/zenodo.19101358](https://doi.org/10.5281/zenodo.19101358)
