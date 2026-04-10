@@ -80,6 +80,7 @@ nucl_acid_ext_method_additional: Two sequential elutions with preheated Buffer A
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2020-03-18 | Initial release (K. Murphy, Smithsonian Institution LAB) |
 | 1.1.0 | 2024-03-01 | Adapted for OKEX project; updated authorship and affiliation |
+| 1.1.1 | 2026-04-10 | Updated YAML front matter |
 
 ### Acronyms and Abbreviations
 
