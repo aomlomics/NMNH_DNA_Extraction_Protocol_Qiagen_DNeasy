@@ -1,7 +1,7 @@
 ---
 # MIOP terms
 methodology_category: sample extraction and purification
-project: Characterization of eDNA sampled by the NOAA Ship Okeanos Explorer
+project: NOAA Ocean Exploration seawater eDNA metabarcoding
 purpose: biodiversity assessment objective [OBI:0001969]
 analyses: DNA extraction [OBI:0000257]
 geographic_location: Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853], Pacific Ocean
@@ -25,17 +25,16 @@ maturity level: mature
 # FAIRe terms
 samp_vol_we_dna_ext: 1500
 samp_vol_we_dna_ext_unit: microliter
-nucl_acid_ext_lysis: Enzymatic
-nucl_acid_ext_sep: Centrifugation
-nucl_acid_ext: Spin Column
+nucl_acid_ext_lysis: enzymatic
+nucl_acid_ext_sep: centrifugation
 nucl_acid_ext_kit: Qiagen DNeasy Blood & Tissue Kit (69504 or 69506)
-nucl_acid_ext_modify: Adapted from Spens et al. 2017 and Wacker et al. 2019 for sterivex capsules
+nucl_acid_ext_modify: Adapted from Spens et al. 2017 and Wacker et al. 2019 for Sterivex filters
 dna_cleanup_0_1: 0
-dna_cleanup_method: Not applicable
-concentration: Not applicable
-concentration_method: Not applicable
-ratioOfAbsorbance260_280: Not applicable
-pool_dna_num: Not applicable
+dna_cleanup_method: not applicable
+concentration: not applicable
+concentration_method: not applicable
+ratioOfAbsorbance260_280: not applicable
+pool_dna_num: not applicable
 nucl_acid_ext_method_additional: Two sequential elutions with preheated Buffer AE (56°C); eluate reloaded onto spin column membrane between elutions
 ---
 
